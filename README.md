@@ -15,3 +15,6 @@ This is a simple web application built using Flask that allows users to guess a 
   - Too low: Red text with a GIF.
   - Too high: Purple text with a GIF.
   - Correct guess: Green text with a GIF.
+
+## License
+This project is built for educational purpose.
