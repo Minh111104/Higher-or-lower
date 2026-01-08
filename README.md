@@ -1,4 +1,4 @@
-# Higher-or-lower
+# Higher-or-lower 👾
 
 This is a simple web application built using Flask that allows users to guess a random number between 0 and 9. The application provides feedback for each guess and includes fun visual responses based on the user's input.
 
